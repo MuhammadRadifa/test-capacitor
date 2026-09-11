@@ -22,3 +22,7 @@ Muhammad Radifa
 ![Screenshot APK 1 - Dialog Berhasil](docs/image1.jpeg)
 
 ![Screenshot APK 2 - Dialog Berhasil](docs/image2.jpeg)
+
+![Screenshot Web](docs/web.png)
+
+![Screenshot Web Dialog](docs/web2.png)
